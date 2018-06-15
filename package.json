@@ -1,12 +1,12 @@
 {
-  "name": "eslint-plugin-zcool",
+  "name": "eslint-plugin-zhh",
   "version": "0.1.0",
-  "description": "eslint plugin customized for zcool",
+  "description": "customized eslint plugin for self usage",
   "keywords": [
     "eslint",
     "eslintplugin",
     "eslint-plugin",
-    "zcool"
+    "zhh"
   ],
   "author": "zhlooking",
   "main": "lib/index.js",
