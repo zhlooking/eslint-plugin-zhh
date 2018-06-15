@@ -1,5 +1,7 @@
 # eslint-plugin-zhh
 
+[![Build Status](https://travis-ci.com/zhlooking/eslint-plugin-zhh.svg?branch=master)](https://travis-ci.com/zhlooking/eslint-plugin-zhh)
+
 eslint plugin zhh
 
 ## Installation
